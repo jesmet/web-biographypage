@@ -1,2 +1,2 @@
-# web-biographypage-
+# web-biographypage
 Challenge: Styling a biography page
