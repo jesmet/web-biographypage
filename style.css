@@ -8,23 +8,18 @@ h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
   border-bottom: 10px dotted purple;
 }
-
 h2 {
   font-size: 1.5em;
   font-family:italic;
-  
 }
- 
 .job-title {
   color: Grey;
   font-weight: bold;
 }
-
 a:link,
 a:visited {
   color: green;
 }
-
 a:hover {
   text-decoration: none;
 }
@@ -32,7 +27,6 @@ ul:contact-details {
   background-color: #eeeeee;
   border: 5px solid purple;
   padding: 10px;
-  
 }
   
 
